@@ -14,20 +14,11 @@ I am a **Data Leader** with over 6 years of experience in data functionality, sp
 
 ---
 
-### Connect with me:
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiqryrevadiansyah@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://hello-fiqryrev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fiqryrevadiansyah) 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/fiqryrev) 
-
----
-
 ### Recent Projects:
 
-- **Multimodal Optical Character Recognition (OCR):** Leveraged AI to enhance OCR capabilities across diverse document formats and languages.
-- **Multimodal Search Algorithm with VectorDB (Image and Text):** Developed search algorithms integrating both image and text data using vector databases.
-- **AI Agent with Retrieval Augmented Generation (RAG):** Built AI agents powered by RAG to enhance information retrieval and context understanding.
+- **Multimodal Optical Character Recognition:** Leveraged AI to enhance OCR capabilities across diverse document formats and languages.
+- **Multimodal Search Algorithm with VectorDB:** Developed search algorithms integrating both image and text data using vector databases.
+- **AI Agent with Retrieval Augmented Generation:** Built AI agents powered by RAG to enhance information retrieval and context understanding.
 - **Self Service Analytics Platform:** Enabled self-service analytics with integrated data pipelines and visualization tools for business users.
 - **Interpretable and Explainable AI:** Implemented models focused on transparency and interpretability for decision-making processes.
 - **Data Governance and Security:** Ensured data compliance and security through governance frameworks like ISO 27001 and SOC type 2.
@@ -81,3 +72,12 @@ I am a **Data Leader** with over 6 years of experience in data functionality, sp
 ---
 
 🔗 **Let’s Collaborate!** I'm always open to discussing new projects, innovative ideas, or potential mentoring opportunities.
+
+--
+
+### Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiqryrevadiansyah@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://hello-fiqryrev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fiqryrevadiansyah) 
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/fiqryrev) 
