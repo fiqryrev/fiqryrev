@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Fiqry 
+<div align="center">
+
+# **Hello, I'm Fiqry** 👋
+
+</div>
 
 I am a **Data Leader** with over 6 years of experience in data functionality, spanning across **Data Science**, **Analytics**, and **Engineering**. I also have a strong background in **Product Management**, **Artificial Intelligence** with specialities in **Generative AI**, driving data-centric solutions to achieve business and product success.
 
