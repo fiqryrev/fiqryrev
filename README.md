@@ -71,11 +71,9 @@ I am a **Data Leader** with over 6 years of experience in data functionality, sp
 
 ---
 
-🔗 **Let’s Collaborate!** I'm always open to discussing new projects, innovative ideas, or potential mentoring opportunities.
-
---
-
 ### Connect with me:
+
+🔗 **Let’s Collaborate!** I'm always open to discussing new projects, innovative ideas, or potential mentoring opportunities.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiqryrevadiansyah@gmail.com)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://hello-fiqryrev.vercel.app/)
