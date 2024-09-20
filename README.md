@@ -7,10 +7,55 @@ I am a **Data Science and Engineering Lead** with over 6 years of experience in 
 - 🌍 Based in **Jakarta, Indonesia**
 - 💼 Experienced in integrating **actionable data insights**, **AI and machine learning**, and **data engineering** into product, business, and engineering functions
 - 🚀 Proven ability to lead cross-functional teams and work across sectors, solving complex problems with data-driven approaches
-  
-### Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/fiqryrevadiansyah)
-- GitHub: [Your GitHub](https://github.com/fiqry-rev)
+
+---
+
+### Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiqryrevadiansyah@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://[y](https://hello-fiqryrev.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fiqryrevadiansyah) 
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/fiqryrev) 
+
+---
+
+### Languages and Tools:
+
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google%20Cloud%20Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-34A853?style=flat-square&logo=google&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-FF5E57?style=flat-square&logo=anthropic&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/ArangoDB-FF5733?style=flat-square&logo=arangodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Cloud Build](https://img.shields.io/badge/Google%20Cloud%20Build-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Cloud Composer](https://img.shields.io/badge/Google%20Cloud%20Composer-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Datastream](https://img.shields.io/badge/Google%20Datastream-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Document AI](https://img.shields.io/badge/Google%20Document%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub/Sub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FCCF00?style=flat-square&logo=langchain&logoColor=black)
+![LangSmith](https://img.shields.io/badge/LangSmith-1E91D6?style=flat-square&logo=langsmith&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-000000?style=flat-square&logo=mistral-ai&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-00F4A1?style=flat-square&logo=ollama&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
