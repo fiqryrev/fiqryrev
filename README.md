@@ -15,19 +15,69 @@ I am a **Data Leader** with over 6 years of experience in data functionality, sp
 ---
 
 ### Recent Projects:
+<div align="center">
 
-- **Multimodal Optical Character Recognition:** Leveraged AI to enhance OCR capabilities across diverse document formats and languages.
-- **Multimodal Search Algorithm with VectorDB:** Developed search algorithms integrating both image and text data using vector databases.
-- **AI Agent with Retrieval Augmented Generation:** Built AI agents powered by RAG to enhance information retrieval and context understanding.
-- **Self Service Analytics Platform:** Enabled self-service analytics with integrated data pipelines and visualization tools for business users.
-- **Interpretable and Explainable AI:** Implemented models focused on transparency and interpretability for decision-making processes.
-- **Data Governance and Security:** Ensured data compliance and security through governance frameworks like ISO 27001 and SOC type 2.
-- **Data Warehouse Architecture with AI metadata automation:** Designed AI-driven data warehouse architectures with automated metadata management.
-- **Data Streaming:** Deployed real-time data streaming solutions for continuous data ingestion and processing.
-- **CI/CD Configuration:** Configured continuous integration/continuous deployment pipelines for seamless project development and delivery.
-- **Predictive Modeling and Anomaly Detection:** Developed predictive models to forecast trends and detect anomalies in business and operational data.
-- **AB Testing and Experimentation:** Designed and executed AB testing frameworks to validate hypotheses and optimize product features.
-- **Company Profile Website:** Created and deployed dynamic company profile websites with modern web technologies.
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Multimodal Optical Character Recognition</strong></td>
+      <td>Leveraged AI to enhance OCR capabilities across diverse document formats and languages.</td>
+    </tr>
+    <tr>
+      <td><strong>Multimodal Search Algorithm with VectorDB</strong></td>
+      <td>Developed search algorithms integrating both image and text data using vector databases.</td>
+    </tr>
+    <tr>
+      <td><strong>AI Agent with Retrieval Augmented Generation</strong></td>
+      <td>Built AI agents powered by RAG to enhance information retrieval and context understanding.</td>
+    </tr>
+    <tr>
+      <td><strong>Self Service Analytics Platform</strong></td>
+      <td>Enabled self-service analytics with integrated data pipelines and visualization tools for business users.</td>
+    </tr>
+    <tr>
+      <td><strong>Interpretable and Explainable AI</strong></td>
+      <td>Implemented models focused on transparency and interpretability for decision-making processes.</td>
+    </tr>
+    <tr>
+      <td><strong>Data Governance and Security</strong></td>
+      <td>Ensured data compliance and security through governance frameworks like ISO 27001 and SOC type 2.</td>
+    </tr>
+    <tr>
+      <td><strong>Data Warehouse Architecture with AI metadata automation</strong></td>
+      <td>Designed AI-driven data warehouse architectures with automated metadata management.</td>
+    </tr>
+    <tr>
+      <td><strong>Data Streaming</strong></td>
+      <td>Deployed real-time data streaming solutions for continuous data ingestion and processing.</td>
+    </tr>
+    <tr>
+      <td><strong>CI/CD Configuration</strong></td>
+      <td>Configured continuous integration/continuous deployment pipelines for seamless project development and delivery.</td>
+    </tr>
+    <tr>
+      <td><strong>Predictive Modeling and Anomaly Detection</strong></td>
+      <td>Developed predictive models to forecast trends and detect anomalies in business and operational data.</td>
+    </tr>
+    <tr>
+      <td><strong>AB Testing and Experimentation</strong></td>
+      <td>Designed and executed AB testing frameworks to validate hypotheses and optimize product features.</td>
+    </tr>
+    <tr>
+      <td><strong>Company Profile Website</strong></td>
+      <td>Created and deployed dynamic company profile websites with modern web technologies.</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ---
 
@@ -73,9 +123,24 @@ I am a **Data Leader** with over 6 years of experience in data functionality, sp
 
 ### Connect with me:
 
-🔗 **Let’s Collaborate!** I'm always open to discussing new projects, innovative ideas, or potential mentoring opportunities.
+🔗 **Let's Collaborate!** I'm always open to discussing new projects, innovative ideas, or potential mentoring opportunities.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fiqryrevadiansyah@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://hello-fiqryrev.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fiqryrevadiansyah) 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)](https://instagram.com/fiqryrev) 
+<p align="left">
+  <a href="mailto:fiqryrevadiansyah@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.hellofiqryrev.com/" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Globe_Flat_Icon_GIF_Animation.gif" alt="Website" height="40" width="40" />
+</a>
+  <a href="https://linkedin.com/in/fiqryrevadiansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/fiqryrev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### GitHub Statistics:
+
+<p align="center">
+<a href="https://github.com/fiqryrev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fiqryrev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fiqryrev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
