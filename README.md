@@ -4,7 +4,7 @@
 
 </div>
 
-I am a **Data Leader** with over 6 years of experience in data functionality, spanning across **Data Science**, **Analytics**, and **Engineering**. I also have a strong background in **Product Management**, **Artificial Intelligence** with specialities in **Generative AI**, driving data-centric solutions to achieve business and product success.
+I am a **Data Leader** with over 7 years of experience in data functionality, spanning across **Data Science**, **Analytics**, and **Engineering**. I also have a strong background in **Product Management**, **Artificial Intelligence** with specialities in **Generative AI**, driving data-centric solutions to achieve business and product success.
 
 ### About Me
 - 🔭 Currently working at **Paper.id** as **Data Science and Engineering Lead**
