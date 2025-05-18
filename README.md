@@ -4,12 +4,12 @@
 
 </div>
 
-I am a **Data Leader** with over 7 years of experience in data functionality, spanning across **Data Science**, **Analytics**, and **Engineering**. I also have a strong background in **Product Management**, **Artificial Intelligence** with specialities in **Generative AI**, driving data-centric solutions to achieve business and product success.
+I am a **Data Leader** with over 7 years of experience in data functionality, spanning across **AI**, **Data Science**, **Analytics**, and **Engineering**. I also have a strong background in **Product Management**, **Artificial Intelligence** with specialities in **Generative AI**, driving data-centric solutions to achieve business and product success.
 
 ### About Me
-- 🔭 Currently working at **Paper.id** as **Data Science and Engineering Lead**
+- 🔭 Currently working at **Paper.id** as **Division Lead of Data Science and Engineering**
 - 🌍 Based in **Jakarta, Indonesia**
-- 💼 Experienced in integrating **actionable data insights**, **AI and machine learning**, and **data engineering** into product, business, and engineering functions
+- 💼 Experienced in integrating **actionable data insights**, **AI and machine learning**, and **data engineering and architecture** into product, business, and engineering functions
 - 🚀 Proven ability to lead cross-functional teams and work across sectors, solving complex problems with data-driven approaches
 
 ---
